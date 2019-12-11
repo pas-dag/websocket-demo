@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-core/1.3.14/f7dcf782e845228ece23309991e62c5ef7e888b5/dropwizard-core-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-core/1.3.14/c9a5b1a6346507c99b6d8dca653576c044af7ccf/dropwizard-core-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.atmosphere/atmosphere-runtime/2.5.12/d670af02ea00fef36fb6472d12dd0195c9949833/atmosphere-runtime-2.5.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.atmosphere/atmosphere-runtime/2.5.12/f6f584f4bc273bd578c8406d8e977237b9cf37d7/atmosphere-runtime-2.5.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-server/9.4.20.v20190813/5427c558889a3976dc6223e133435acd9087edf2/websocket-server-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-server/9.4.20.v20190813/221fef4b33086b31ecfbf48be5bbc40198faed90/websocket-server-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-request-logging/1.3.14/bd53318c0d6ce493c44ac630176c34468bc38eab/dropwizard-request-logging-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-request-logging/1.3.14/c04b9a5b7c19ec3021b3d39fd99ad6d059cb48fc/dropwizard-request-logging-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-jetty/1.3.14/ecf47bc4026097decd2b65dbdc102754882afe23/dropwizard-jetty-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-jetty/1.3.14/1899e99afe0da6ecde7d43337987d2087684269c/dropwizard-jetty-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlets/9.4.20.v20190813/693496adda5acaea4078d92c4a766c8f2d0d5c5/jetty-servlets-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlets/9.4.20.v20190813/75368c0e05f6fc604383b96682b17722d8d3a8c/jetty-servlets-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-configuration/1.3.14/b958b607b462315300a198731c6911e485fac555/dropwizard-configuration-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-configuration/1.3.14/7db709810eb99b894ac841bd6349e2e1f557d52c/dropwizard-configuration-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-jersey/1.3.14/2cbde147ff230e0c9e3aefd7940d8dd9aacacadd/dropwizard-jersey-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-jersey/1.3.14/f1400c6b3084a0d816f27da60cece7e4d4ac1944/dropwizard-jersey-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-logging/1.3.14/946be694cf076cba741212810a1bc5d751aade6e/dropwizard-logging-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-logging/1.3.14/fcc7d8f4e65692b48b046f68526ea954e95114d1/dropwizard-logging-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-metrics/1.3.14/78e49dd5f98e70baf8b5a54d8a96c7e6c5c3029f/dropwizard-metrics-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-metrics/1.3.14/26fbed29c4d7bbe968ab7ef416839543a33c50c5/dropwizard-metrics-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-jackson/1.3.14/eee6fd22c10b3a01bf76fbc6c2050dbf3d82b309/dropwizard-jackson-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-jackson/1.3.14/6ec0b145f1e7e2e9a0e5b12e6dd3c8d47055d976/dropwizard-jackson-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-validation/1.3.14/20df2b48560ee15aa441db0f00df81a5bf9a53f4/dropwizard-validation-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-validation/1.3.14/7f8c1142281eeb20938467ff586b87bf54696779/dropwizard-validation-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-servlets/1.3.14/28128aefdaeeb7f050784c0511c1db32f03f61dd/dropwizard-servlets-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-servlets/1.3.14/ed55a1ac3fbeb3ccdd5acfcda16e8587298bf692/dropwizard-servlets-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-lifecycle/1.3.14/7b99aff2265c7e2e204ab337e3c960fcaf229bee/dropwizard-lifecycle-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-lifecycle/1.3.14/2424df1d99fde115fbf318b93ac31acaa95bf752/dropwizard-lifecycle-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-util/1.3.14/118f6bf0eecacc418ae82c059527bd603c83024/dropwizard-util-1.3.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-util/1.3.14/8dcc84ecb87cff88bb8ee0abf25d07af97ea69d0/dropwizard-util-1.3.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-servlets/4.0.5/983dacbfd04ec22b49f9e2256a5d41694ce7d4cc/metrics-servlets-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-servlets/4.0.5/d5164215f81838ea78f3768e6dfa9c2311adaa6c/metrics-servlets-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jvm/4.0.5/9f6f1e6c1db440d9ad4c3114f17be40f66bb399/metrics-jvm-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jvm/4.0.5/1dba55c8c0c1786b8caa65853639284e3eeed2a4/metrics-jvm-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jmx/4.0.5/d7be4ddd7ba674ee8be1d23d883fb3ca68ee1d54/metrics-jmx-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jmx/4.0.5/a5257897eed160e8120a4a360f9b2be794c87e19/metrics-jmx-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-logback/4.0.5/306d0d06b0940c6df49031e8dd750e635e4b170f/metrics-logback-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-logback/4.0.5/b55ee627e30d9dec33160b25d56723094230129e/metrics-logback-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jersey2/4.0.5/cea8d4217ccd087f302611a54e4dd6071ba5844c/metrics-jersey2-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jersey2/4.0.5/4a1eaad1bc4b962183547190be6eba19b98c2f38/metrics-jersey2-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jetty9/4.0.5/87f3b49a7377e56f62046875d394ed0028b37690/metrics-jetty9-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jetty9/4.0.5/7bd44a5722603b1b6987b9d76fe1c4afe2fe0e6f/metrics-jetty9-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-json/4.0.5/8c66fea9f767588ae0995be27558b1f3ae8d75ef/metrics-json-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-json/4.0.5/f1f561160d3f3356fcfccbfad58577334f2f706d/metrics-json-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/4.0.5/b81ef162970cdb9f4512ee2da09715a856ff4c4c/metrics-core-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/4.0.5/ef2066195d1d916f181110c1f4f5b87f0a3e66d7/metrics-core-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-healthchecks/4.0.5/73177b73f9d7ac80b0d0125db9dd41faab816c52/metrics-healthchecks-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-healthchecks/4.0.5/c862e0112b2580c892f4a68c90f29511febc9f84/metrics-healthchecks-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/net.sourceforge.argparse4j/argparse4j/0.8.1/2c8241f84acf6c924bd75be0dbd68e8d74fbcd70/argparse4j-0.8.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/net.sourceforge.argparse4j/argparse4j/0.8.1/779289966bb88f72751923bf2990ddde7f7a6507/argparse4j-0.8.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.toolchain.setuid/jetty-setuid-java/1.0.3/73ae4ab171d396103f32e392970641e985d1a845/jetty-setuid-java-1.0.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.toolchain.setuid/jetty-setuid-java/1.0.3/c2ede016dae2ea24c64fcc2f58d12b1b83088557/jetty-setuid-java-1.0.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.26/8031352b2bb0a49e67818bf04c027aa92e645d5c/jul-to-slf4j-1.7.26.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.26/74d35fd39913770cb0213e0ca418f485ed69ce4c/jul-to-slf4j-1.7.26-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.26/daeb21c5e35d77d550e721c4cf5aaa716496d31a/log4j-over-slf4j-1.7.26.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.26/d8bbef04efa3a47d73450f23410d6a90a2b93564/log4j-over-slf4j-1.7.26-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.26/33fbc2d93de829fa5e263c5ce97f5eab8f57d53e/jcl-over-slf4j-1.7.26.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.26/e2ba1512efe475a810b196d7c645d7093473817c/jcl-over-slf4j-1.7.26-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-annotation/4.0.5/b30a0e181a5b5170c3b9bf513a9f2cc756dd4319/metrics-annotation-4.0.5.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-annotation/4.0.5/8ba8bd07f4a223a63694268f7198bac0302b4c76/metrics-annotation-4.0.5-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.26/77100a62c2e6f04b53977b9f541044d7d722693d/slf4j-api-1.7.26.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.26/21c84cdf9da108216b5e402611d4af479b60cb8/slf4j-api-1.7.26-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-client/9.4.20.v20190813/6575537348092bc18e065fa9fe5bb333cae6e842/websocket-client-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-client/9.4.20.v20190813/3ea400bbf3b816630791f73ff04fe500e9a0a0fd/websocket-client-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.20.v20190813/2ab33f93662c7270ec0dea205c47f7b40e9a060b/websocket-common-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.20.v20190813/371442e2c05700bf624d470841da9c7708126cd0/websocket-common-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-servlet/9.4.20.v20190813/6a8be637de4dd2143efdd003d48fdbcfde4390d7/websocket-servlet-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-servlet/9.4.20.v20190813/d7cd595e5494d3f44ac1393d4a5330e8cba38759/websocket-servlet-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.4.18.v20190429/9c2f1a2b61bdc2d24f8a980c6c614aa0b588216d/jetty-webapp-9.4.18.v20190429.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.4.18.v20190429/9d044e17c4c7860328d0711ffbf0de0684a7ffa9/jetty-webapp-9.4.18.v20190429-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.4.20.v20190813/d5d6610321bd173aead473e994f170989d633b25/jetty-servlet-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.4.20.v20190813/9aa4fce2579d0905e3bde0b3bc923a032394805/jetty-servlet-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.20.v20190813/dcee62915067cba0b3ed331d14f75e5d753c566d/jetty-client-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.20.v20190813/fba3b9a18670af007361686da020fa955dd546ac/jetty-client-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.4.20.v20190813/300c2e6dd62291c512bdaf3ecfefc1e305e26088/jetty-security-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.4.20.v20190813/ec03ce3b6a8c0c3dd2bd8b32bc51419caa10ad62/jetty-security-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.20.v20190813/d4ee11134bca83db85919a1710fce022c67df3b7/jetty-server-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.4.20.v20190813/db81f86709a8184c793acd309c27dccdb5d439c/jetty-server-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.20.v20190813/edda2fd904a881114aba79e2f881c6f4004e8148/jetty-http-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.4.20.v20190813/3e187c60d578c529f4baa3bbfc727d4b7ca7b93c/jetty-http-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.4.20.v20190813/e024388db5ace49c7459e68b5c0e542ef55fd49b/jetty-continuation-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.4.20.v20190813/d1fbb280462c7084340d99e03ee3068d89024014/jetty-continuation-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.20.v20190813/b246c5e350d0aa1b310c07ec362755c34a1cc8cb/jetty-io-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.4.20.v20190813/d12619b4df0d202847096a8429b0f96f123c7c77/jetty-io-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.4.20.v20190813/212d5f1fbc45c25ce0995ea861448918a0397338/jetty-xml-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.4.20.v20190813/fd0cf300f7665f9fcbb6caa4b11343e6621bb707/jetty-xml-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.20.v20190813/8ee753d673a124ba2880361871ab13f6863b2d40/jetty-util-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.4.20.v20190813/2827925d01d95f42d02adf177d2474fbc8a3d5e0/jetty-util-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-guava/2.9.9/8ed2f11606b6f37c087a090e333b19273f6f48cb/jackson-datatype-guava-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-guava/2.9.9/c5dd0c821454ff95e2276cd802ab3969d3a0d6d2/jackson-datatype-guava-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.9.9/a33df137557793b0404a486888dbe049f7abeeeb/jackson-datatype-jsr310-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.9.9/5846120b788392577d357eba5d3ca1cb766469aa/jackson-datatype-jsr310-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.9.9/4b04126963103216c9c43b0f34bbc36315654204/jackson-datatype-jdk8-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.9.9/dd2a21d5d75b2ac56da7508780c8acf88b727d15/jackson-datatype-jdk8-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.9.9/a92facb55a2538e7b2fe14294570a18b823ad431/jackson-module-parameter-names-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.9.9/e0531520e9d9d315276bbc2aced68e169a96361c/jackson-module-parameter-names-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-afterburner/2.9.9/89ac043b711248ba512b98493d2266328d1f1045/jackson-module-afterburner-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-afterburner/2.9.9/6b5ba0f531991a0572ac6434bd30fa94da7d2d08/jackson-module-afterburner-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-joda/2.9.9/a69b7eda6d0c422567c3ef9187510daeb97ef952/jackson-datatype-joda-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-joda/2.9.9/c5770727a1ed2c1680d27f13c734c1190c52db03/jackson-datatype-joda-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.9.9/7deb5d0d335265ace2a9048c8d6e203b588a1724/jackson-jaxrs-json-provider-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.9.9/c46a1de3f7ef6e18a208ba339dcacb9a990ea82/jackson-jaxrs-json-provider-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.9.9/fc33bfa121b746db0f9fb8f36ed2e6682a1c1dd0/jackson-jaxrs-base-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.9.9/3e2d06d988d7131fc43e077284d7fd615f554604/jackson-jaxrs-base-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.9.9/52fb643de81a60839750013a520f26b6259ddeff/jackson-module-jaxb-annotations-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.9.9/e721989939fbc0ea30316bbb32948752022797e9/jackson-module-jaxb-annotations-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.9.3/68ddd453458765757fd3ffca9437f9a42d91003e/jackson-databind-2.9.9.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.9.3/5e509c4752b34340e2fe6844d8ade42ee8a4e8f/jackson-databind-2.9.9.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/a0ad4e203304ccab7e01266fa814115850edb8a9/jackson-annotations-2.9.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/24.1.1-jre/2e3014320a8005e3f3c1800cb246ed42db8cab81/guava-24.1.1-jre.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/24.1.1-jre/9cd4fb296a2c098839bf029de31432d737ab20ad/guava-24.1.1-jre-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.papertrail/profiler/1.0.2/138093a4ed2da6f0b07a2a2335584bd5a7d53bff/profiler-1.0.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.papertrail/profiler/1.0.2/df4c391cddb4f1375c16ff7fcf630faa59d8b0a4/profiler-1.0.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.10.1/9ac3dbf89dbf2ee385185dd0cd3064fe789efee0/joda-time-2.10.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.10.1/31b91b963228648fd1899fc7bbc18bdfa7ce45d1/joda-time-2.10.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.9.9/ccc00ed13e4d74f9c5cc30465b6fc4fe5ce5473/jackson-dataformat-yaml-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.9.9/d0ceea9bf39597a52171f4f8cd43d65f7f4aa32f/jackson-dataformat-yaml-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.9/bfff5af9fb8347d26bbb7959cb9b4fe9a2b0ca5e/jackson-core-2.9.9.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.9/c8a91180aef81d62f44b27cef42bacb168871a4c/jackson-core-2.9.9-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-bean-validation/2.25.1/1971927d79cad0ad2b5a3bfda24967748a2023d/jersey-bean-validation-2.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-bean-validation/2.25.1/7943a02b565c8c425ac4c444e4d2e53b413f211a/jersey-bean-validation-2.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.4.3.Final/7c3d91629e81937b33dffd5b170956ef9c76af97/hibernate-validator-5.4.3.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.4.3.Final/5e1df853756a83cf56ac38d25c2ce34d05cc20dd/hibernate-validator-5.4.3.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.el/3.0.0/dd532526e7c8de48e40419e6af1183658a973379/javax.el-3.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.el/3.0.0/9a2a19399140efdd86a5b350e7bff8cd1eb05579/javax.el-3.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet/2.25.1/cf5f7a76fcea38158b890ab7a0142d4db709a882/jersey-container-servlet-2.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet/2.25.1/334916026e1c327d22abce2e5ee1a9b446f8206f/jersey-container-servlet-2.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet-core/2.25.1/400e30bb035a0cdf3c554530224141ce659a0d1e/jersey-container-servlet-core-2.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet-core/2.25.1/d99241eb017d4943a55b01def4a58d620782e49a/jersey-container-servlet-core-2.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.25.1/276e2ee0fd1cdabf99357fce560c5baab675b1a2/jersey-server-2.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/2.25.1/f0c3629e116829bb892a86d1fabfbc3e18550b7c/jersey-server-2.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-metainf-services/2.25.1/83376116af614791a26f51a93af1070520345782/jersey-metainf-services-2.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.ext/jersey-metainf-services/2.25.1/1d4240a69c0a40f65bcdaa55e27744de0181b960/jersey-metainf-services-2.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/2.25.1/4d563b1f93352ee9fad597e9e1daf2c6159993c6/jersey-client-2.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/2.25.1/753404f68c295f40f25cdda40b05be518ede99b3/jersey-client-2.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-jaxb/2.25.1/d7da0beeed5614a3bfd882662faec602699e24b/jersey-media-jaxb-2.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.media/jersey-media-jaxb/2.25.1/4472b847fb1929f9756bf1e3711917e215005adb/jersey-media-jaxb-2.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.25.1/2438ce68d4907046095ab54aa83a6092951b4bbb/jersey-common-2.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/2.25.1/909e99b31725e867874bd156c61d6a3c19e5ce4f/jersey-common-2.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-locator/2.5.0-b32/195474f8ad0a8d130e9ea949a771bcf1215fc33b/hk2-locator-2.5.0-b32.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-locator/2.5.0-b32/9ad9ce916e9cae42f3dd457d863d7faf3a5b0a2e/hk2-locator-2.5.0-b32-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.24.1-GA/921b466d6a14a8edbe25923c973fd767fc71c045/javassist-3.24.1-GA.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.24.1-GA/7c80ce6145aa19d7219dc6406286061701db5525/javassist-3.24.1-GA-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.2/74acdec7237f576c4803fff0c1008ab8a3808b2b/commons-text-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.2/679282ee0f6f2b236f58a7a1dc8395861ad9fd97/commons-text-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.8.1/6505a72a097d9270f7a9e7bf42c4238283247755/commons-lang3-3.8.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.8.1/e9748d7783594da3735ad9724390a10e7cebc01d/commons-lang3-3.8.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/7c4f3c474fb2c041d8028740440937705ebb473a/logback-classic-1.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/cfd5385e0c5ed1c8a5dce57d86e79cf357153a64/logback-classic-1.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-access/1.2.3/e8a841cb796f6423c7afd8738df6e0e4052bf24a/logback-access-1.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-access/1.2.3/ea52e9589590e75109b2abf8505b0f6413dda9f9/logback-access-1.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/864344400c3d4d92dfeb0a305dc87d953677c03c/logback-core-1.2.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.2.3/3ebabe69eba0196af9ad3a814f723fb720b9101e/logback-core-1.2.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.20.v20190813/8d608b5dce8e7b3188fde38d908494788e47f55d/websocket-api-9.4.20.v20190813.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.20.v20190813/2399481c35bb8344dfb63e7b8bdf17e06dd5cf76/websocket-api-9.4.20.v20190813-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/fc89b03860d11d6213d0154a62bcd1c2f69b9efa/checker-compat-qual-2.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.0.0/eb7f7d588d0aef07a2c89178053c2a9e4613947f/checker-compat-qual-2.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.3/39b109f2cd352b2d71b52a3b5a1a9850e1dc304b/error_prone_annotations-2.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.3/990fe1fd48078a2befecdfcebcad8e6e1bd195a0/error_prone_annotations-2.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/1efdf5b737b02f9b72ebdec4f72c37ec411302ff/j2objc-annotations-1.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/886474da3f761d39fcbb723d97ecc5089e731f42/animal-sniffer-annotations-1.14-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.0.Final/3616bb87707910296e2c195dc016287080bba5af/jboss-logging-3.3.0.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.0.Final/3625e6818158ddb4754fa2ec51299e5f57e596b4/jboss-logging-3.3.0.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.3.1/2ad2fd09dcf5607ca96f8ef432096a96986c40a/classmate-1.3.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.3.1/9553ee8c29df95f56207662c68a163601b26231e/classmate-1.3.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.23/ec62d74fe50689c28c0ff5b35d3aebcaa8b5be68/snakeyaml-1.23.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.23/1186bcf89d33080275bab74a0b0f495af5c812ef/snakeyaml-1.23-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/104e9c2b5583cfcfeac0402316221648d6d8ea6b/javax.ws.rs-api-2.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/a20db7429fd8dfff74335ec867472b71c345049b/javax.ws.rs-api-2.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/ad18a02db08eaee697f812e333f692fc51129e4a/javax.annotation-api-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.5.0-b32/6a576c9653832ce610b80a2f389374ef19d96171/hk2-api-2.5.0-b32.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-api/2.5.0-b32/fa4f62a464d7d65b2a3d33035bb5606792273556/hk2-api-2.5.0-b32-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/javax.inject/2.5.0-b32/b2fa50c8186a38728c35fe6a9da57ce4cc806923/javax.inject-2.5.0-b32.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/javax.inject/2.5.0-b32/55e665280bbf8ed63c301959e130cfe335637f31/javax.inject-2.5.0-b32-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-guava/2.25.1/a2bb4f8208e134cf2cf71dfb8824e42942f7bd06/jersey-guava-2.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-guava/2.25.1/eeb130898a7b7b146ce9a85f9434b4100105f29d/jersey-guava-2.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/1.0.1/4ed2b2d4738aed5786cfa64cba5a332779c4c708/osgi-resource-locator-1.0.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/1.0.1/b5685f8eaa7d83351b185a82a92abcd1b8b87fc8/osgi-resource-locator-1.0.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-utils/2.5.0-b32/5108a926988c4ceda7f1e681dddfe3101454a002/hk2-utils-2.5.0-b32.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/hk2-utils/2.5.0-b32/6b4474b77b50234f978e9fecce87c030d64193f2/hk2-utils-2.5.0-b32-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/aopalliance-repackaged/2.5.0-b32/6af37c3f8ec6f9e9653ec837eb508da28ce443cd/aopalliance-repackaged-2.5.0-b32.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2.external/aopalliance-repackaged/2.5.0-b32/51312ba9370f3b514cc95c5c2c77a224a1d7e9b9/aopalliance-repackaged-2.5.0-b32-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/dag/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>
