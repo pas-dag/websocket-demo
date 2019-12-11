@@ -6,3 +6,4 @@ Server: `./gradlew run`
 
 Client: `cd client; npm install; node src/demo.js`
 
+Copyright 2019 Palo Alto Software Inc.
