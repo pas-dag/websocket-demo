@@ -30,7 +30,6 @@ public class DemoAtmosphereHandler implements AtmosphereHandler {
         atmosphereResource.addEventListener(new AtmosphereResourceEventListenerAdapter() {
             @Override
             public void onDisconnect(AtmosphereResourceEvent event) {
-
                 log.info("disconnect {} {}", atmosphereResource.uuid(), event);
                 broadcaster.removeAtmosphereResource(atmosphereResource);
             }

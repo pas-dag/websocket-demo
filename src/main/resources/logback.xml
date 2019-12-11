@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://github.com/logstash/logstash-logback-encoder https://logback.qos.ch/manual/configuration.html -->
+
+<configuration debug="true">
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${HOSTNAME} %d{HH:mm:ss.SSS} %contextName [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="com.paloalto.demo" level="INFO" />
+    <logger name="org.atmosphere.cpr" level="TRACE" />
+
+    <root level="WARN">
+        <appender-ref ref="STDOUT" />
+    </root>
+
+</configuration>

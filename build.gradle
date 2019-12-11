@@ -12,3 +12,9 @@ dependencies {
     compile group: 'org.eclipse.jetty', name: 'jetty-servlets', version: '9.4.20.v20190813'
 }
 
+mainClassName = "com.paloalto.demo.DemoApplication"
+
+run {
+    args 'server'
+}
+
