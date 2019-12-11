@@ -1,0 +1,13 @@
+{
+  "name": "demo-client",
+  "version": "0.0.01",
+  "description": "It's a Thing",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-merge": "^4.2.1"
+  },
+  "dependencies": {
+    "atmosphere.js": "2.3.8"
+  }
+}

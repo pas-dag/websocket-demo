@@ -1,2 +1,4 @@
 .gradle
 build
+.idea/workspace.xml
+client/node_modules
